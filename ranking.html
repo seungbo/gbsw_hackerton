@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>퀴즈 랭킹</title>
+    <script src="scripts.js"></script>
+    <script>
+        // 저장된 scores 배열을 읽어와서 사용
+        const retrievedScores = getScores();
+        console.log(retrievedScores); // 로컬 스토리지에서 읽어온 scores 배열을 콘솔에 출력
+    </script>
+    <style>
+        
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        .ranking {
+            margin-top: 20px;
+        }
+        .ranking-item {
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <script>
+        // 저장된 데이터 불러오기
+        const storedData = localStorage.savescores(scores);
+        const scores = storedData ? JSON.parse(storedData) : [];
+    </script>
+
+    <h1>퀴즈 랭킹</h1>
+
+    <div class="ranking">
+        <div class="ranking-item">
+            <strong>1등: ??? // </strong> <span id="firstPlace">-</span> 문제 정답
+        </div>
+        <div class="ranking-item">
+            <strong>2등: ??? // </strong> <span id="secondPlace">-</span> 문제 정답
+        </div>
+        <div class="ranking-item">
+            <strong>3등: ??? //</strong> <span id="thirdPlace">-</span> 문제 정답
+        </div>
+
+    </div>
+    <div id="result-text"></div>
+    <button onclick="goBackToStart()">처음으로</button>
+
+    <script>
+        // 여기에 1, 2, 3등의 값을 동적으로 설정할 수 있습니다.
+    document.getElementById('firstPlace').innerText = '???'; // 실제 정답 수로 대체
+    document.getElementById('secondPlace').innerText = '???'; // 실제 정답 수로 대체
+    document.getElementById('thirdPlace').innerText = '???'; // 실제 정답 수로 대체
+        function goBackToStart() {
+            // 시작 페이지로 이동하거나 필요한 작업 수행
+            window.location.replace('/main/index.html');
+        }
+    </script>
+
+</body>
+<footer>
+    <h1 id="updateNotice">*추후 업데이트 예정*</h1>
+    <style>
+        h1#updateNotice {
+            font-size: 100px; /* 크게 조절하고 싶은 크기로 설정 */
+            font-weight: bold; /* 원하는 글꼴 두께 설정 */
+            color: #ff0000; /* 원하는 글꼴 색상 설정 */
+            margin-top: 230px; /* 아래로 조금 내리기 */
+        }
+    </style>
+</footer>
+</html>

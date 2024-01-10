@@ -1,0 +1,213 @@
+/* .19_2 { 
+	overflow:hidden;
+ } */
+ .e19_2 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1536px;
+	height:864px;
+	position:absolute;
+ }
+ .e19_3 { 
+	color:rgba(0, 0, 0, 1);
+	width:567px;
+	height:62px;
+	position:absolute;
+	left:463px;
+	top:176px;
+	font-family:Inter;
+	text-align:center;
+	font-size:50px;
+	letter-spacing:0;
+ }
+ .e19_4 { 
+	color:rgba(0, 0, 0, 1);
+	width:357px;
+	height:91px;
+	position:absolute;
+	left:178px;
+	top:389px;
+	font-family:Inter;
+	text-align:center;
+	font-size:40px;
+	letter-spacing:0;
+ }
+ .e19_5 { 
+	color:rgba(0, 0, 0, 1);
+	width:357px;
+	height:91px;
+	position:absolute;
+	left:178px;
+	top:534px;
+	font-family:Inter;
+	text-align:center;
+	font-size:40px;
+	letter-spacing:0;
+ }
+ .e19_6 { 
+	background-color:rgba(237.13671773672104, 237.13671773672104, 237.13671773672104, 1);
+	width:626px;
+	height:104px;
+	position:absolute;
+	left:504px;
+	top:392px;
+	border-top-left-radius:8px;
+	border-top-right-radius:8px;
+	border-bottom-left-radius:8px;
+	border-bottom-right-radius:8px;
+ }
+ /* .19_6 { 
+	border:1px solid rgba(0, 0, 0, 1);
+ } */
+ .e19_7 { 
+	background-color:rgba(237.13671773672104, 237.13671773672104, 237.13671773672104, 1);
+	width:626px;
+	height:104px;
+	position:absolute;
+	left:504px;
+	top:521px;
+	border-top-left-radius:8px;
+	border-top-right-radius:8px;
+	border-bottom-left-radius:8px;
+	border-bottom-right-radius:8px;
+ }
+ .e19_11 { 
+	color:rgba(0, 0, 0, 1);
+	width:774px;
+	height:47px;
+	position:absolute;
+	left:356px;
+	top:300px;
+	font-family:Inter;
+	text-align:center;
+	font-size:30px;
+	letter-spacing:0;
+ }
+ .e19_12 { 
+	/* color:rgba(0, 0, 0, 0.4000000059604645);
+	width:711px;
+	height:76px;
+	position:absolute;
+	left:555px;
+	top:406px;
+	font-family:Inter;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0; */
+ 
+	background-color: rgba(237.13671773672104, 237.13671773672104, 237.13671773672104, 1);
+	 width: 626px;
+	 height: 104px;
+	 position: absolute;
+	 left: 504px;
+	 top: 392px;
+	 border-top-left-radius: 8px;
+	 border-top-right-radius: 8px;
+	 border-bottom-left-radius: 8px;
+	 border-bottom-right-radius: 8px;
+	font-family:Inter;
+	font-size:30px;
+	padding-left: 25px;
+ }
+ 
+ .e19_13 { 
+	/* color:rgba(0, 0, 0, 0.4000000059604645);
+	width:711px;
+	height:77px;
+	position:absolute;
+	left:555px;
+	top:534px;
+	font-family:Inter;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0; */
+ 
+	background-color:rgba(237.13671773672104, 237.13671773672104, 237.13671773672104, 1);
+	width:626px;
+	height:104px;
+	position:absolute;
+	left:504px;
+	top:521px;
+	border-top-left-radius:8px;
+	border-top-right-radius:8px;
+	border-bottom-left-radius:8px;
+	border-bottom-right-radius:8px;
+	font-family: Inter;
+	font-size: 30px;
+	padding-left: 27px;
+ }
+ .e19_17 { 
+	background-color:rgba(149.00000631809235, 147.00000643730164, 255, 1);
+	width:452px;
+	height:96px;
+	position:absolute;
+	left:504px;
+	top:679px;
+	border-top-left-radius:15px;
+	border-top-right-radius:15px;
+	border-bottom-left-radius:15px;
+	border-bottom-right-radius:15px;
+ }
+ .e19_18 { 
+	color:rgba(0, 0, 0, 1);
+	width:604px;
+	height:95px;
+	position:absolute;
+	left:426px;
+	top:686px;
+	font-family:Inter;
+	text-align:center;
+	font-size:32px;
+	letter-spacing:0;
+ }
+ .e19_8 { 
+	background-color:rgba(62.57707513868809, 58.650077059865, 255, 0.550000011920929);
+	width:1536px;
+	height:125px;
+	position:absolute;
+	left:0px;
+	top:0px;
+ }
+ .e39_203 { 
+	width:90.12950134277344px;
+	height:87px;
+	position:absolute;
+	left:604px;
+	top:21px;
+	background-image:url(images/free_icon_home_3771140_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+ }
+ .e39_202 { 
+	width:87px;
+	height:87px;
+	position:absolute;
+	left:38px;
+	top:21px;
+	background-image:url(images/___1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+ }
+ .e19_14 { 
+	color:rgba(0, 0, 0, 1);
+	width:198px;
+	height:40px;
+	position:absolute;
+	left:125px;
+	top:47px;
+	font-family:Inter;
+	text-align:center;
+	font-size:40px;
+	letter-spacing:0;
+ }
+ .e19_16 { 
+	color:rgba(0, 0, 0, 1);
+	width:198px;
+	height:40px;
+	position:absolute;
+	left:669px;
+	top:47px;
+	font-family:Inter;
+	text-align:center;
+	font-size:40px;
+	letter-spacing:0;
+ }

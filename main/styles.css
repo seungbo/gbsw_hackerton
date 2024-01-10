@@ -1,0 +1,125 @@
+/* .22_2 { 
+	overflow:hidden;
+} */
+.e22_2 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1536px;
+	height:864px;
+	position:absolute;
+}
+.e22_26 { 
+	background-color:rgba(111.93201497197151, 119.78892177343369, 202.2867053747177, 1);
+	width:416px;
+	height:177px;
+	position:absolute;
+	left:258px;
+	top:479px;
+}
+.e22_27 { 
+	background-color:rgba(52.70010553300381, 206.44807487726212, 255, 1);
+	width:415px;
+	height:177px;
+	position:absolute;
+	left:848px;
+	top:479px;
+}
+.e19_27 { 
+	color:rgba(0, 0, 0, 1);
+	width:553px;
+	height:121px;
+	position:absolute;
+	left:485px;
+	top:224px;
+	font-family:Inter;
+	text-align:center;
+	font-size:75px;
+	letter-spacing:0;
+}
+.e19_29 { 
+	color:rgba(0, 0, 0, 1);
+	width:553px;
+	height:121px;
+	position:absolute;
+	left:190px;
+	top:507px;
+	font-family:Inter;
+	text-align:center;
+	font-size:48px;
+	letter-spacing:0;
+}
+.e19_30 { 
+	color:rgba(0, 0, 0, 1);
+	width:553px;
+	height:121px;
+	position:absolute;
+	left:780px;
+	top:507px;
+	font-family:Inter;
+	text-align:center;
+	font-size:48px;
+	letter-spacing:0;
+}
+.e45_8 { 
+	background-color:rgba(62.57707513868809, 58.650077059865, 255, 0.550000011920929);
+	width:1545px;
+	height:125px;
+	position:absolute;
+	left:-9px;
+	top:0px;
+}
+.e45_9 { 
+	color:rgba(0, 0, 0, 1);
+	width:198px;
+	height:40px;
+	position:absolute;
+	left:116px;
+	top:36px;
+	font-family:Inter;
+	text-align:center;
+	font-size:40px;
+	letter-spacing:0;
+}
+.e45_10 { 
+	width:87px;
+	height:87px;
+	position:absolute;
+	left:29px;
+	top:10px;
+	background-image:url(images/___3.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e45_11 { 
+	width:90.12950134277344px;
+	height:87px;
+	position:absolute;
+	left:600px;
+	top:12px;
+	background-image:url(images/free_icon_home_3771140_3.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e45_12 { 
+	color:rgba(0, 0, 0, 1);
+	width:198px;
+	height:40px;
+	position:absolute;
+	left:676px;
+	top:41px;
+	font-family:Inter;
+	text-align:center;
+	font-size:40px;
+	letter-spacing:0;
+}
+.e45_13 { 
+	color:rgba(0, 0, 0, 1);
+	width:567px;
+	height:62px;
+	position:absolute;
+	left:1114px;
+	top:32px;
+	font-family:Inter;
+	text-align:center;
+	font-size:50px;
+	letter-spacing:0;
+}

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>문해력 테스트하기</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div id="start-page" class="page">
+        <h1>문해력 테스트 시작하기</h1>
+        <button onclick="startQuiz()">시작하기</button>
+    </div>
+
+    <div id="quiz-page" class="page" style="display: none;">
+        <!-- 여기에 퀴즈가 들어갈 부분 -->
+        <div id="quiz-progress" style="text-align: right; padding: 10px;"></div>
+    </div>
+
+    <div id="result-page" class="page" style="display: none;">
+        <h1>결과</h1>
+        <p id="result-text"></p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
